@@ -10,7 +10,7 @@ action "share button on merge" {
     MATCH_PATTERN = "*.png"
     HASHTAGS = "#rsephenotype #rseng"
     CUSTOM_MESSAGE = "What is your RSE Phenotype? Here is mine!"
-    DATA_URL = "https://www.github.com/usrse/rse-phenotype"
+    DATA_URL = "https://us-rse.org/rse-phenotype/"
     AT_USERNAME = "@us_rse"
   }
 }
