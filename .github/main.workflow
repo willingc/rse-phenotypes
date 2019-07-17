@@ -8,9 +8,9 @@ action "share button on merge" {
   secrets = ["GITHUB_TOKEN"]
   env = {
     MATCH_PATTERN = "*.png"
-    HASHTAGS = "#rseng #rsephenotype"
+    HASHTAG = "#rsephenotype"
     CUSTOM_MESSAGE = "What is your RSE Phenotype? Here is mine!"
     DATA_URL = "https://www.github.com/usrse/rse-phenotype"
-    AT_UESRNAME = "@us_rse"
+    AT_USERNAME = "@us_rse"
   }
 }
