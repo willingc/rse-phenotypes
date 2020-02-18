@@ -1,7 +1,7 @@
 # RSE Phenotypes
 
 This is a repository of Research Software Engineer Phenotypes, generated
-at https://usrse.github.io/rse-phenotype. It uses the [Twitter Share Action](https://www.github.com/vsoch/twitter-share-action)
+at https://rseng.github.io/rse-phenotype. It uses the [Twitter Share Action](https://www.github.com/vsoch/twitter-share-action)
 to generate the link to share an image that you contribute to this repository
 via pull request. The image should end in *.png.
 
@@ -13,7 +13,7 @@ Engineer) are defined can encourage introspection and reveal
 insights about different ways that we can define RSEs. 
 
 In addition, we've provided a listing of questions below to support this introspection.
-If you have additional questions to add, please don't hesitate to [open an issue](https://www.github.com/usrse/rse-phenotypes).
+If you have additional questions to add, please don't hesitate to [open an issue](https://www.github.com/rseng/rse-phenotypes).
 
 ## Questions
 
